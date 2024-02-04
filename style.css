@@ -94,8 +94,8 @@ a.content:visited {
   margin: 0 auto;
   text-align: center;
   font-size: 11pt;
-  color: #000000;
   background: #0099CC;
+  color: #000000;
   }
 
 .ttl {
@@ -111,7 +111,7 @@ a.content:visited {
   max-width: 850px;
   height: 450px;
   margin: 0 auto;
-  background: #e6e6e6;
+  background: transparent;
   color: #000000;
   }
 
@@ -125,7 +125,7 @@ a.content:visited {
   word-break: break-word;
   text-align: center;
   overflow: hidden;
-  background: #aaaaaa;
+  background: #AAAAAA;
   color: #000000;
   }
 
@@ -151,7 +151,7 @@ a.content:visited {
   width: 350px;
   height: 350px;
   text-align: center;
-  background: #aaaaaa;
+  background: #transparent;
   color: #D3D3D3;
   }
 
@@ -166,7 +166,7 @@ a.content:visited {
   max-width: 850px;
   height: 850px;
   margin: 0 auto;
-  background: #e6e6e6;
+  background: transparent;
   color: #000000;
   }
 
@@ -177,7 +177,7 @@ a.content:visited {
   width: 350px;
   height: 350px;
   text-align: center;
-  background: #aaaaaa;
+  background: transparent;
   color: #000000;
   }
 
@@ -192,7 +192,7 @@ a.content:visited {
   max-width: 850px;
   height: 1250px;
   margin: 0 auto;
-  background: #e6e6e6;
+  background: transparent;
   color: #000000;
   }
 
@@ -203,7 +203,7 @@ a.content:visited {
   width: 350px;
   height: 350px;
   text-align: center;
-  background: #aaaaaa;
+  background: transparent;
   color: #000000;
   }
 
@@ -216,9 +216,9 @@ a.content:visited {
 .container-texts {
   width: 100%;
   max-width: 850px;
-  height: 850px;
+  height: 1250px;
   margin: 0 auto;
-  background: #e6e6e6;
+  background: transparent;
   color: #000000;
   }
 
@@ -229,7 +229,7 @@ a.content:visited {
   width: 350px;
   height: 350px;
   text-align: center;
-  background: #aaaaaa;
+  background: transparent;
   color: #000000;
   }
 
@@ -244,7 +244,7 @@ a.content:visited {
   max-width: 850px;
   height: 9900px;
   margin: 0 auto;
-  background: #e6e6e6;
+  background: transparent;
   color: #000000;
   }
 
@@ -255,7 +255,7 @@ a.content:visited {
   width: 750px;
   height: 529px;
   text-align: center;
-  background: #e6e6e6;
+  background: transparent;
   color: #808080;
   }
 
@@ -270,7 +270,7 @@ a.content:visited {
   max-width: 850px;
   height: 9615px;
   margin: 0 auto;
-  background: #e6e6e6;
+  background: transparent;
   color: #000000;
   }
 
@@ -304,7 +304,7 @@ a.content:visited {
   max-width: 850px;
   height: 4900px;
   margin: 0 auto;
-  background: #e6e6e6;
+  background: transparent;
   color: #000000;
   }
 
@@ -338,7 +338,7 @@ a.content:visited {
   max-width: 850px;
   height: 55630px;
   margin: 0 auto;
-  background: #e6e6e6;
+  background: transparent;
   color: #000000;
   }
 
@@ -372,7 +372,7 @@ a.content:visited {
   max-width: 850px;
   height: 5160px;
   margin: 0 auto;
-  background: #e6e6e6;
+  background: transparent;
   color: #000000;
   }
 
@@ -413,5 +413,5 @@ a.content:visited {
   font-size: 11pt;
   text-align: center;
   font-family: Courier;
-  color: #D3D3D3;
+  color: #B9B9B9;
   }
