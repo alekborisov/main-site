@@ -119,11 +119,11 @@ a.content:visited {
   float: left;
   margin-top: 50px;
   margin-left: 50px;
-  width: 710px;
+  width: 670px;
   height: 350px;
-  padding: 0px 20px;
+  padding: 0px 40px;
   word-break: break-word;
-  text-align: center;
+  text-align: justify;
   overflow: hidden;
   background: #AAAAAA;
   color: #000000;
