@@ -71,8 +71,26 @@ a.content:active {
 
 a.content:visited {
   text-decoration: none;
-  color: ##808080;
+  color: #808080;
 	}
+
+#pdfLink:link {
+  text-decoration: none;
+  color: #006699;
+  }
+
+#pdfLink:visited {
+  text-decoration: none !important;
+  color: #006699 !important;
+  }
+
+#pdfLink:hover {
+  color: #0099CC !important;
+  }
+
+#pdfLink:active {
+  color: #0099CC !important;
+  }
 
 .container-border {
   width: 100%;
@@ -390,6 +408,40 @@ a.content:visited {
   }
 
 .neon-ttl {
+  width: 100%;
+  max-width: 750px;
+  margin-bottom: 40px;
+  padding: 15px 0px;
+  text-align: center;
+  line-height: 0.55em;
+  font-family: Courier, monospace;
+  background: transparent;
+  color: #808080;
+  }
+
+.container-unmanned {
+  width: 100%;
+  max-width: 850px;
+  height: 6135px;
+  margin: 0 auto;
+  background: transparent;
+  color: #000000;
+  }
+
+.unmanned {
+  float: left;
+  width: 100%;
+  max-width: 750px;
+  margin-top: 125px;
+  margin-left: 50px;
+  text-align: center;
+  line-height: 0.55em;
+  font-family: Courier, monospace;
+  background: transparent;
+  color: #000000;
+  }
+
+.unmanned-ttl {
   width: 100%;
   max-width: 750px;
   margin-bottom: 40px;
