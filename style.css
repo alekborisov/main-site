@@ -208,7 +208,7 @@ a.content:visited {
 .container-various {
   width: 100%;
   max-width: 850px;
-  height: 1250px;
+  height: 1650px;
   margin: 0 auto;
   background: transparent;
   color: #000000;
@@ -422,7 +422,7 @@ a.content:visited {
 .container-unmanned {
   width: 100%;
   max-width: 850px;
-  height: 6135px;
+  height: 8110px;
   margin: 0 auto;
   background: transparent;
   color: #000000;
@@ -445,6 +445,40 @@ a.content:visited {
   width: 100%;
   max-width: 750px;
   margin-bottom: 40px;
+  padding: 15px 0px;
+  text-align: center;
+  line-height: 0.55em;
+  font-family: Courier, monospace;
+  background: transparent;
+  color: #808080;
+  }
+
+.container-lowlife {
+  width: 100%;
+  max-width: 850px;
+  height: 52050px;
+  margin: 0 auto;
+  background: transparent;
+  color: #000000;
+  }
+
+.lowlife {
+  float: left;
+  width: 100%;
+  max-width: 750px;
+  margin-top: 65px;
+  margin-left: 50px;
+  text-align: center;
+  line-height: 0.55em;
+  font-family: Courier, monospace;
+  background: transparent;
+  color: #000000;
+  }
+
+.lowlife-ttl {
+  width: 100%;
+  max-width: 750px;
+  margin-bottom: 20px;
   padding: 15px 0px;
   text-align: center;
   line-height: 0.55em;
